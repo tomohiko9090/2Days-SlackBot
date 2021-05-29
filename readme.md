@@ -1,4 +1,6 @@
 # 制作物名： 「孫悟空Bot」
+- 詳しくはこちらのハッカソンスライドをお読みください！  
+https://docs.google.com/presentation/d/1DKlMj2uW11G7dfJVo7uoNBxqu36huk_ubDo_n4Ux7fA/edit#slide=id.p
 - 期間：２日間
 - 人数:3人
 - 工夫した点：  
@@ -9,4 +11,4 @@ Web APIの知識が足りていなかったこともあり、3人で勉強する
 2日間のハッカソンで実装するべき部分と必要ない部分を考えることの重要性を学びました。  
 
 ## ハッカソンの発表スライド↓
-https://docs.google.com/presentation/d/1DKlMj2uW11G7dfJVo7uoNBxqu36huk_ubDo_n4Ux7fA/edit#slide=id.p
+
